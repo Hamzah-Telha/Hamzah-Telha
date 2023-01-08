@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=4DF700&background=000000&vCenter=true&multiline=true&width=435&height=70&lines=%3Cname%3EMy+Name+is+Hamzah+Telha%3C%2Fname%3E;I'm+full-stack+programmer)](https://git.io/typing-svg)
 <br />
 
-<p>
 MyInsgram
 
 <a href="https://instagram.com/blackdeathhz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amj3.3" height="30" width="40" margin="10"/></a>
-</p>
 <br />
 <br />
 
