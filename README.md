@@ -5,12 +5,6 @@
 
 <br />
 
-MyInsgram
-
-<a href="https://instagram.com/blackdeathhz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amj3.3" height="30" width="40" margin="10"/></a>
-<br />
-<br />
-
 <h3>Things I have work with it</h3>
 <br />
 
